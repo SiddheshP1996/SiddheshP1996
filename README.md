@@ -35,36 +35,38 @@
 
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
-    <table align="center" cellspacing="5">
-      <tr align="center">
-        <a href="#" title="Python">
-        <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python" height="20">Python</a>
-      </tr>
-      <tr align="center">
-        <a href="#" title="C++">
-        <img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" alt="C++" height="20">C++</a>
-      </tr>
-      <tr align="center">
-        <a href="#" title="MySQL">
-        <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="MySQL" height="20">MySQL</a>
-      </tr>
-      <tr align="center">
-        <a href="#" title="Github">
-        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-22.svg" alt="Github" height="20">Github</a>
-      </tr>
-      <tr align="center">
-        <a href="#" title="HTML5">
-        <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="HTML5" height="20">HTML5</a>
-      </tr>
-      <tr align="center">
-        <a href="#" title="CSS3">
-        <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="CSS3" height="20">CSS3</a>
-      </tr>
-      <tr align="center">
-        <a href="#" title="JavaScript">
-        <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" alt="JavaScript" height="20">JavaScript</a>
-      </tr>
-    </table>
+    <p align="center">
+      <table align="center" cellspacing="5">
+        <tr align="center">
+          <a href="#" title="Python">
+          <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python" height="20"></a>
+        </tr>
+        <tr align="center">
+          <a href="#" title="C++">
+          <img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" alt="C++" height="20"></a>
+        </tr>
+        <tr align="center">
+          <a href="#" title="MySQL">
+          <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="MySQL" height="20"></a>
+        </tr>
+        <tr align="center">
+          <a href="#" title="Github">
+          <img src="https://brandeps.com/icon-download/G/Github-icon-vector-22.svg" alt="Github" height="20"></a>
+        </tr>
+        <tr align="center">
+          <a href="#" title="HTML5">
+          <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="HTML5" height="20"></a>
+        </tr>
+        <tr align="center">
+          <a href="#" title="CSS3">
+          <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="CSS3" height="20"></a>
+        </tr>
+        <tr align="center">
+          <a href="#" title="JavaScript">
+          <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" alt="JavaScript" height="20"></a>
+        </tr>
+      </table>
+    </p>
   </section>
 
   <hr>
