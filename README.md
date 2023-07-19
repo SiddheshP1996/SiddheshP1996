@@ -37,26 +37,19 @@
     <h2 align="center">Skills and Tools</h2>
     <p align="center">
       <a href="#" title="Python">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"
-          alt="Python"></a>
+        <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"></a>
       <a href="#" title="Github">
-        <img src="https://img.shields.io/badge/-Github-#000000?style=for-the-badge&labelColor=black&logo=Github&logoColor=000000"
-          alt="Github"></a>
+        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-22.svg" alt="Github"></a>
       <a href="#" title="MySQL">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"
-          alt="MySQL"></a>
+        <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="MySQL"></a>
       <a href="#" title="C++">
-        <img src="https://img.shields.io/badge/-C++-#5E97D0?style=for-the-badge&labelColor=black&logo=C++&logoColor=5E97D0"
-          alt="C++"></a>
+        <img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" alt="C++"></a>
       <a href="#" title="JavaScript">
-        <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"
-          alt="JavaScript"></a>
+        <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" alt="JavaScript"></a>
       <a href="#" title="HTML5">
-        <img src="https://img.shields.io/badge/-HTML5-FF5349?style=for-the-badge&labelColor=black&logo=html5&logoColor=FF5349"
-          alt="HTML5"></a>
+        <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="HTML5"></a>
       <a href="#" title="CSS3">
-        <img src="https://img.shields.io/badge/-CSS3-cccccc?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"
-          alt="CSS3"></a>
+        <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="CSS3"></a>
     </p>
   </section>
 
