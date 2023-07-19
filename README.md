@@ -66,8 +66,8 @@
   
   <section class="container languages used">
     <h2 align="center">Languages Used</h2>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&layout=compact" align="center"/>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&layout=compact" alt="languages used" align="center">
     </p>
   </section>
   
