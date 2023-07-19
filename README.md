@@ -82,7 +82,7 @@
           src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
       <a href="https://twitter.com/0010Panajkar" target="_blank" rel="noopener noreferrer"><img
           src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
-      <a href="mailto:shubhamk0240@gmail.com" target="_blank" rel="noopener noreferrer"><img
+      <a href="mailto:siddheshpanajkar2001@gmail.com" target="_blank" rel="noopener noreferrer"><img
           src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
     </p>
   </section>
