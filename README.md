@@ -35,22 +35,36 @@
 
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
-    <p align="center">
-      <a href="#" title="Python">
+    <table aligh="center" cellspacing="5">
+      <tr>
+        <a href="#" title="Python">
         <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python" height="20">Python</a>
-      <a href="#" title="Github">
+      </tr>
+      <tr>
+        <a href="#" title="Github">
         <img src="https://brandeps.com/icon-download/G/Github-icon-vector-22.svg" alt="Github" height="20">Github</a>
-      <a href="#" title="MySQL">
+      </tr>
+      <tr>
+        <a href="#" title="MySQL">
         <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="MySQL" height="20">MySQL</a>
-      <a href="#" title="C++">
+      </tr>
+      <tr>
+        <a href="#" title="C++">
         <img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" alt="C++" height="20">C++</a>
-      <a href="#" title="JavaScript">
+      </tr>
+      <tr>
+        <a href="#" title="JavaScript">
         <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" alt="JavaScript" height="20">JavaScript</a>
-      <a href="#" title="HTML5">
+      </tr>
+      <tr>
+        <a href="#" title="HTML5">
         <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="HTML5" height="20">HTML5</a>
-      <a href="#" title="CSS3">
+      </tr>
+      <tr>
+        <a href="#" title="CSS3">
         <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="CSS3" height="20">CSS3</a>
-    </p>
+      </tr>
+    </table>
   </section>
 
   <hr>
