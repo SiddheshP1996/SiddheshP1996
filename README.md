@@ -35,7 +35,7 @@
 
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
-    <table aligh="center" cellspacing="5">
+    <table align="center" cellspacing="5">
       <tr>
         <a href="#" title="Python">
         <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python" height="20">Python</a>
