@@ -36,7 +36,13 @@
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
     <p align="center">
-      <table align="center" cellspacing="5">
+      <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25>
+      <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25>
+      <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>
+      <img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25>
+    </p>
+  </section>
+      <!-- <table align="center" cellspacing="5">
         <tr align="center">
           <a href="#" title="Python">
           <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python" height="50"></a>
@@ -65,9 +71,7 @@
           <a href="#" title="JavaScript">
           <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" alt="JavaScript" height="50"></a>
         </tr>
-      </table>
-    </p>
-  </section>
+      </table>-->
 
   <hr>
 
@@ -119,6 +123,10 @@
       </a>
       <img src="https://komarev.com/ghpvc/?username=SiddheshP1996" alt="Profile Views">
     </p>
+  </section>
+
+  <section>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&layout=compact" align="center"/>
   </section>
 
 </body>
