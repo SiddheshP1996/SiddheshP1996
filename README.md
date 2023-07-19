@@ -15,7 +15,7 @@
 
   <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
-  <h3 align="center">I'm a Web Developerand Explorer</h3>
+  <h3 align="center">I'm a Web Developer and Explorer</h3>
 
   <hr>
 
