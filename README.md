@@ -36,26 +36,26 @@
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
     <p align="center">
-      <a href="#" title="Python"><img
-          src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"
+      <a href="#" title="Python">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"
           alt="Python"></a>
-      <a href="#" title="Git"><img
-          src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032"
-          alt="Git"></a>
-      <a href="#" title="MySQL"><img
-          src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"
+      <a href="#" title="Github">
+        <img src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Github&logoColor=%23000000&label=Github&labelColor=black"
+          alt="Github"></a>
+      <a href="#" title="MySQL">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"
           alt="MySQL"></a>
-      <a href="#" title="C++"><img
-          src="https://img.shields.io/badge/-C++-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB"
+      <a href="#" title="C++">
+        <img src="https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=black&label=C%2B%2B&labelColor=white"
           alt="C++"></a>
-      <a href="#" title="JavaScript"><img
-          src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"
+      <a href="#" title="JavaScript">
+        <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"
           alt="JavaScript"></a>
-      <a href="#" title="HTML5"><img
-          src="https://img.shields.io/badge/-HTML5-FF5349?style=for-the-badge&labelColor=black&logo=html5&logoColor=FF5349"
+      <a href="#" title="HTML5">
+        <img src="https://img.shields.io/badge/-HTML5-FF5349?style=for-the-badge&labelColor=black&logo=html5&logoColor=FF5349"
           alt="HTML5"></a>
-      <a href="#" title="CSS3"><img
-          src="https://img.shields.io/badge/-CSS3-cccccc?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"
+      <a href="#" title="CSS3">
+        <img src="https://img.shields.io/badge/-CSS3-cccccc?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"
           alt="CSS3"></a>
     </p>
   </section>
