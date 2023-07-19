@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"
           alt="MySQL"></a>
       <a href="#" title="C++">
-        <img src="https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=black&label=C%2B%2B&labelColor=white"
+        <img src="https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=black&label=C%2B%2B&labelColor=black"
           alt="C++"></a>
       <a href="#" title="JavaScript">
         <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"
