@@ -40,13 +40,13 @@
         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"
           alt="Python"></a>
       <a href="#" title="Github">
-        <img src="https://img.shields.io/badge/-Github-#000000?style=for-the-badge&labelColor=black&logo=Github&logoColor=%23000000"
+        <img src="https://img.shields.io/badge/-Github-#000000?style=for-the-badge&labelColor=black&logo=Github&logoColor=000000"
           alt="Github"></a>
       <a href="#" title="MySQL">
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"
           alt="MySQL"></a>
       <a href="#" title="C++">
-        <img src="https://img.shields.io/badge/-C%2B%2B-#5E97D0?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%235E97D0"
+        <img src="https://img.shields.io/badge/-C++-#5E97D0?style=for-the-badge&labelColor=black&logo=C++&logoColor=5E97D0"
           alt="C++"></a>
       <a href="#" title="JavaScript">
         <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"
