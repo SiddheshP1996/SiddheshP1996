@@ -8,7 +8,7 @@
 <body>
   <!-- Your Profile Header -->
   <p align="center">
-    <img src="https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg" alt="Profile Header" width="100%" height="auto">
+    <img src="https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg" alt="Profile Header" height="400">
   </p>
   <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
