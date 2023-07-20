@@ -8,9 +8,9 @@
 <body>
   <!-- Your Profile Header -->
   <p align="center">
-    <img src="https://i.imgur.com/iXuL1HG.png" alt="Profile Header" width="100%" height="auto">
+    <img src="https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg" alt="Profile Header" width="100%" height="auto">
   </p>
-  <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abmcollege.com%2Fblog%2Fwhat-you-learn-in-a-web-design-and-development-program&psig=AOvVaw0RB4TXh1PSAodtHdEEsZUX&ust=1689922234936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC_nYbZnIADFQAAAAAdAAAAABAE"
+  <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
   <h3 align="center">I'm a Web Developer and Explorer</h3>
   
