@@ -75,6 +75,13 @@
   </section>
   
   <hr>
+
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=100px>
+  </p>
+  
+  <hr>
   
   <section class="container connect">
     <h2 align="center">Let's Connect</h2>
