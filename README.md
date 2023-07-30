@@ -80,7 +80,7 @@
 
   <p align="center">
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=100px>
+    <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=20>
   </p>
   
   <hr>
