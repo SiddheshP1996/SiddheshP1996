@@ -19,7 +19,7 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/0010Panajkar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0010Panajkar&screen_name=0010Panajkar)
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsiddhesh-panajkar&screen_name=siddhesh-panajkar)
   <!--in/siddhesh-panajkar/)-->
-  [![Visits](https://komarev.com/ghpvc/?username=TawkirAlif&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/SiddheshP1996)
+  [![Visits](https://komarev.com/ghpvc/?username=SiddheshP1996&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/SiddheshP1996)
   
   <hr>
   
