@@ -1,3 +1,6 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/alif_tawkir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0010Panajkar)
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
