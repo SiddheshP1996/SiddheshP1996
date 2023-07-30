@@ -15,7 +15,7 @@
   <h3 align="center">I'm a Web Developer and Explorer</h3>
 
   <hr>
-
+  
   [![Twitter Follow](https://img.shields.io/twitter/follow/0010Panajkar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0010Panajkar&screen_name=0010Panajkar)
   
   <hr>
@@ -43,7 +43,6 @@
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40>
     </p>
   </section>
-
   
   <hr>
   
@@ -82,7 +81,7 @@
 
   <p align="center">
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=20>
+    <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=40>
   </p>
   
   <hr>
