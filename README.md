@@ -82,7 +82,7 @@
   <hr>
 
   <p align="center">
-    Visitor count<br>
+    <h2 align="center">Visitor count<br></h2>
     <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=40>
   </p>
   
