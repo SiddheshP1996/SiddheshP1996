@@ -30,15 +30,15 @@
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
     <p align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" height=25>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=python&logoColor=3776AB" alt="python" height=25>
       <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height=25>
       <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=25>
       <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=25>
       <img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="javascript" height=25>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="25">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=white&logo=mysql&logoColor=4479A1" alt="MySQL" height="25">
     </p>
   </section>
-  <!-- &labelColor=white&&labelColor=white -->
+
   
   <hr>
   
