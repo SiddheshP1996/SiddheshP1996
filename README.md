@@ -30,7 +30,7 @@
   <section class="container skills">
     <h2 align="center">Skills and Tools</h2>
     <p align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="python" height=25>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=python&logoColor=3776AB" alt="python" height=25>
       <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height=25>
       <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=25>
       <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=25>
