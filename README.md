@@ -59,7 +59,7 @@
     <h2 align="center">Activity Graph</h2>
     <p align="center">
       <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=highcontrast"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=default"
           alt="Activity Graph">
       </a>
     </p>
