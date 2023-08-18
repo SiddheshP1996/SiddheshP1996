@@ -47,7 +47,7 @@
     <h2 align="center">GitHub Stats</h2>
     <p align="center">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=SiddheshP1996&show_icons=true&count_private=true&theme=radical"
+        <img src="https://github-readme-stats.vercel.app/api?username=SiddheshP1996&show_icons=true&count_private=true&theme=transparent"
           alt="GitHub Stats">
       </a>
     </p>
