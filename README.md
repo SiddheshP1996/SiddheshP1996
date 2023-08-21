@@ -8,13 +8,13 @@
 <body>
   <!-- Your Profile Header -->
   <p align="center">
-    <a href="https://iconscout.com/lottie/web-development-3574933" alt="Profile Header" height="250"></a>
+    <a href="https://iconscout.com/lottie/web-development-3574933" style="height=250;"></a>
   </p>
   <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
   <h3 align="center">I'm a Web Developer and Explorer</h3>
 
-  <a href="https://iconscout.com/lottie/web-development-and-design-4320480" height="250"></a>
+  <a href="https://iconscout.com/lottie/web-development-and-design-4320480" style="height=250;"></a>
 
   <hr>
   
