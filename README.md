@@ -106,7 +106,7 @@
         <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram">
       </a>
       <a href="https://twitter.com/0010Panajkar" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter">
+        <img src="![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" alt="Twitter">
       </a>
       <a href="mailto:siddheshpanajkar2001@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail">
