@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- <link rel="stylesheet" href="styles.css"> -->
 </head>
-<body style="background = "https://i.gifer.com/3HeZ.gif";">
+<body style="background-image = "https://i.gifer.com/3HeZ.gif";">
   <!-- Your Profile Header -->
   <p align="center">
     <img src="https://iconscout.com/lottie/web-development-3574933" style="height=250;">
