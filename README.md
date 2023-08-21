@@ -8,8 +8,8 @@
 <body style="background-image = "https://i.gifer.com/3HeZ.gif";">
   <!-- Your Profile Header -->
   <p align="center">
-    <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=250 style="display: flex;">
-    <img src="https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=250>
+    <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=300 style="display: inline-flex;">
+    <img src="https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=350>
   </p>
   <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
