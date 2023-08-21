@@ -99,9 +99,6 @@
   <section class="container connect">
     <h2 align="center">Let's Connect</h2>
     <p align="center">
-      <a aria-label="Chat on WhatsApp" href="https://wa.me/1XXXXXXXXXX">
-        <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" >
-      <a />
       <a href="https://www.linkedin.com/in/siddhesh-panajkar/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
       </a>
