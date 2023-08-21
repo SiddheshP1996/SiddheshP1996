@@ -8,11 +8,13 @@
 <body>
   <!-- Your Profile Header -->
   <p align="center">
-    <img src="https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg" alt="Profile Header" height="350">
+    <img src="https://iconscout.com/lottie/web-development-3574933" alt="Profile Header" height="250" style="display: flex;">
   </p>
   <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
   <h3 align="center">I'm a Web Developer and Explorer</h3>
+
+  <img src="https://iconscout.com/lottie/web-development-and-design-4320480" height="250" >
 
   <hr>
   
