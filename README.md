@@ -22,7 +22,9 @@
   
   <section class="container about-me">
     <h2 align="center">About Me</h2>
-    <p>🌱 Welcome to My GitHub Profile! I'm am Web Developer and Explorer, who possess a strong foundation in crafting elegant and robust solutions. Whether it's building intuitive user interfaces or designing scalable front-end systems, I am passionate about creating seamless digital experiences that leave a lasting impact.</p> <br>
+    <p style="bold">🌱 Welcome to My GitHub Profile!</p><br>
+    <p style="text-align: center;">At present I'm an Aspiring Data Software Engineer.</p><r>
+    <p>I'm Web Developer and Explorer, who possess a strong foundation in crafting elegant and robust solutions. Whether it's building intuitive user interfaces or designing scalable front-end systems, I am passionate about creating seamless digital experiences that leave a lasting impact.</p> <br>
     <p>👨‍💻 I believe in the power of code to shape the world we live in and continuously seek different aspects to contribute meaningfully to its changing evolution.
     </p> <br>
     <p>🚀 Besides my love for coding, I'm a lifelong learner who enjoys staying up-to-date with the latest advancements in technology. With a keen interest in history, current affairs
