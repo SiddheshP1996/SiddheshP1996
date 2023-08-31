@@ -73,11 +73,10 @@
   <section class="container activity-graph">
     <h2 align="center">Activity Graph</h2>
     <p align="center">
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshP1996&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph))
-<!--       <a href="#">
+      <a href="#">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=default"
           alt="Activity Graph">
-      </a> -->
+      </a>
     </p>
   </section>
   
