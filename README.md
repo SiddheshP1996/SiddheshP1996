@@ -44,13 +44,13 @@
       <img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40>
       <img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40>
       <br>
-      <h3>CSS Framework</h3>
-      <img src = "https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height=40>
+      <h3>CSS External Framework</h3>
+      <img src = "https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40>
       <br>
-      <h3>Database Service</h3>
+      <h3>Database</h3>
       <img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40>
       <br>
-      <h3>Repository</h3>
+      <h3>Version Control</h3>
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40>
       <br>
     </p>
