@@ -110,7 +110,7 @@
         <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank" alt="Instagram">
       </a>
       <a href="https://www.facebook.com/siddhesh.panajkar/" rel="noopener noreferrer">
-        <img width="40" height="40" src="https://img.icons8.com/metro/40/228BE6/facebook-new--v2.png" alt="facebook-new--v2"/>
+        <img width="45" height="45" src="https://img.icons8.com/metro/45/228BE6/facebook-new--v2.png" alt="facebook-new--v2"/>
 <!--         <img src="https://icons8.com/icon/118504/facebook" target="_blank" alt="Facebook"> -->
       </a>
       <a href="https://twitter.com/0010Panajkar" rel="noopener noreferrer">
