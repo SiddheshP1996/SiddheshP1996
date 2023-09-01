@@ -103,20 +103,20 @@
   <section class="container connect">
     <h2 align="center">Let's Connect</h2>
     <p align="center">
-      <a href="https://www.linkedin.com/in/siddhesh-panajkar/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
+      <a href="https://www.linkedin.com/in/siddhesh-panajkar/" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank" alt="LinkedIn">
       </a>
-      <a href="https://www.instagram.com/siddhesh.panajkar/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram">
+      <a href="https://www.instagram.com/siddhesh.panajkar/" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank" alt="Instagram">
       </a>
-      <a href="https://www.facebook.com/siddhesh.panajkar/" target="_blank" rel="noopener noreferrer">
-        <img src="https://icons8.com/icon/118504/facebook" alt="Facebook">
+      <a href="https://www.facebook.com/siddhesh.panajkar/" rel="noopener noreferrer">
+        <img src="https://icons8.com/icon/118504/facebook" target="_blank" alt="Facebook">
       </a>
-      <a href="https://twitter.com/0010Panajkar" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter">
+      <a href="https://twitter.com/0010Panajkar" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" target="_blank" alt="Twitter">
       </a>
-      <a href="mailto:siddheshpanajkar2001@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail">
+      <a href="mailto:siddheshpanajkar2001@gmail.com" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluent/48/000000/gmail.png" target="_blank" alt="Gmail">
       </a>
     </p>
   </section>
