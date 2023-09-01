@@ -37,8 +37,10 @@
   <section class="container skills">
     <h2 align="center">Tech Stacks</h2>
     <p align="center">
+      <h3>DSA Language</h3>
+      <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40>
+      <br>
       <h3>Languages</h3>
-      <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" height=40>
       <img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40>
       <img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40>
       <img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40>
@@ -106,6 +108,9 @@
       </a>
       <a href="https://www.instagram.com/siddhesh.panajkar/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram">
+      </a>
+      <a href="https://www.facebook.com/siddhesh.panajkar/" target="_blank" rel="noopener noreferrer">
+        <img src="https://icons8.com/icon/118504/facebook" alt="Facebook">
       </a>
       <a href="https://twitter.com/0010Panajkar" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter">
