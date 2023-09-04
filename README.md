@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- <link rel="stylesheet" href="styles.css"> -->
 </head>
-<body  style="background-image = "https://i.gifer.com/3HeZ.gif"; background-color: "black";">
+<body bgcolor="black" style="background-image = "https://i.gifer.com/3HeZ.gif";">
   <!-- Your Profile Header -->
   <p align="center">
     <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=350>
