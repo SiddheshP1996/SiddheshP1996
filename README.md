@@ -48,7 +48,7 @@
       <img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40>
       <br>
       <h3>CSS External Framework</h3>
-      <img src = "https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40>
+      <img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40>
       <br>
       <h3>JavaScript Library</h3>
       <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40>
