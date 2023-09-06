@@ -60,6 +60,7 @@
       <img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40>
       <br>
       <h3>VERSION CONTROL</h3>
+      <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40>
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40>
       <br>
     </p>
