@@ -22,7 +22,7 @@
   <hr>
   
   <section class="container about-me">
-    <h2 align="center">About Me</h2>
+    <h2 align="center">ABOUT ME</h2>
     <p align="center">🌱 Welcome to My GitHub Profile!</p><br><br>
 <!--     <p align="center">Currently an Aspiring Data Software Engineer.</p><br> -->
     <p>A Web Developer and Explorer, who possess a strong foundation in crafting elegant and robust solutions. Whether it's building intuitive user interfaces or designing scalable front-end systems, I am passionate about creating seamless digital experiences that leave a lasting impact.</p> <br>
@@ -36,27 +36,27 @@
   <hr>
   
   <section class="container skills">
-    <h2 align="center">Tech Stacks</h2>
+    <h2 align="center">TECH STACKS</h2>
     <p align="center">
-      <h3>DSA Language</h3>
+      <h3>DSA LANGUAGE</h3>
       <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40>
       <br>
-      <h3>Languages</h3>
+      <h3>LANGUAGES</h3>
       <img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40>
       <img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40>
       <img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40>
       <img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40>
       <br>
-      <h3>CSS External Framework</h3>
+      <h3>CSS EXTERNAL FRAMEWORK</h3>
       <img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40>
       <br>
-      <h3>JavaScript Library</h3>
+      <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
       <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40>
       <br>
-      <h3>Database</h3>
+      <h3>DATABASE TECHNOLOGIES</h3>
       <img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40>
       <br>
-      <h3>Version Control</h3>
+      <h3>VERSION CONTROL</h3>
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40>
       <br>
     </p>
@@ -65,7 +65,7 @@
   <hr>
   
   <section class="container github-stats">
-    <h2 align="center">GitHub Stats</h2>
+    <h2 align="center">GITHUB STATS</h2>
     <p align="center">
       <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=SiddheshP1996&show_icons=true&count_private=true&theme=default"
@@ -77,7 +77,7 @@
   <hr>
   
   <section class="container activity-graph">
-    <h2 align="center">Activity Graph</h2>
+    <h2 align="center">ACTIVITY GRAPH</h2>
     <p align="center">
       <a href="#">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=default"
@@ -89,7 +89,7 @@
   <hr>
   
   <section class="container languages used">
-    <h2 align="center">Languages Used</h2>
+    <h2 align="center">LANGUAGES USED</h2>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&layout=compact" alt="languages used" align="center">
     </p>
@@ -97,7 +97,7 @@
   
   <hr>
   
-  <h2 align="center">Visitor count<br></h2>
+  <h2 align="center">VISITOR COUNT<br></h2>
   <p align="center">
     <img src="https://profile-counter.glitch.me/SiddheshP1996/count.svg" alt="profile-counter" height=40>
   </p>
@@ -105,7 +105,7 @@
   <hr>
   
   <section class="container connect">
-    <h2 align="center">Let's Connect</h2>
+    <h2 align="center">LET's CONNECT</h2>
     <p align="center">
       <a href="https://www.linkedin.com/in/siddhesh-panajkar/" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank" alt="LinkedIn">
@@ -129,12 +129,12 @@
   <hr>
   
   <section class="container views-followers">
-    <h2 align="center">Views and Followers</h2>
+    <h2 align="center">VIEWERS AND FOLLOWERS</h2>
     <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=SiddheshP1996" alt="Profile Views">
       <a href="https://github.com/SiddheshP1996=followers">
         <img src="https://img.shields.io/github/followers/SiddheshP1996=Followers&style=social" alt="GitHub Followers">
       </a>
-      <img src="https://komarev.com/ghpvc/?username=SiddheshP1996" alt="Profile Views">
     </p>
   </section>
   
