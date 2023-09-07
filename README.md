@@ -56,7 +56,7 @@
       <h3>JAVASCRIPT RUNTIME ENVIRONMENT</h3>
       <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40>
       <br>
-      <h3>DATABASE TECHNOLOGIES</h3>
+      <h3>DBMS TECHNOLOGIES</h3>
       <img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40>
       <br>
       <h3>VERSION CONTROL</h3>
