@@ -23,8 +23,8 @@
   
   <section class="container about-me">
     <h2 align="center">ABOUT ME</h2>
-    <p align="center"> <strong>🌱 Welcome to My GitHub Profile! </strong></p><br>
-    <p>A Web Developer and Explorer, who possess a strong foundation in crafting elegant and robust solutions. Whether it's building intuitive user interfaces or designing scalable front-end systems, I am passionate about creating seamless digital experiences that leave a lasting impact.</p> <br>
+    <p align="center"> <strong>🌱 Welcome to My GitHub Profile! 🌱</strong></p><br>
+    <p>💻 A Web Developer and Explorer, who possess a strong foundation in crafting elegant and robust solutions. Whether it's building intuitive user interfaces or designing scalable front-end systems, I am passionate about creating seamless digital experiences that leave a lasting impact.</p> <br>
     <p>👨‍💻 I believe in the power of code to shape the world we live in and continuously seek different aspects to contribute meaningfully to its changing evolution.
     </p> <br>
     <p>🚀 Besides my love for coding, I'm a lifelong learner who enjoys staying up-to-date with the latest advancements in technology. With a keen interest in history, current affairs
