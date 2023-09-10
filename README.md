@@ -54,16 +54,16 @@
       <br>
       <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
       <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40>
-<!--       <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40>
+      <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40>
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-package-installer" height=40>
-      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40> -->
+      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40>
       <br>
       <h3>JAVASCRIPT RUNTIME ENVIRONMENT</h3>
       <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40>
       <br>
-<!--       <h3>API</h3>
+      <h3>API</h3>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40>
-      <br> -->
+      <br>
       <h3>DBMS TECHNOLOGIES</h3>
       <img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40>
       <br>
