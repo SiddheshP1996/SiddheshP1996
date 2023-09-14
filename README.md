@@ -38,7 +38,7 @@
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
       <h3>DSA LANGUAGE</h3>
-      <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40>
+      <a href="https://www.python.org/doc/"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
       <br>
       <h3>LANGUAGES</h3>
       <img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40>
