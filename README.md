@@ -38,40 +38,40 @@
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
       <h3>DSA LANGUAGE</h3>
-      <a href="https://www.python.org/doc/" target="_blank"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
+      <a href="https://www.python.org/doc/"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
       <br>
       <h3>LANGUAGES</h3>
-      <img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40>
-      <img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40>
-      <img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40>
-      <img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40></a>
+      <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40></a>
       <br>
       <h3>CSS EXTERNAL FRAMEWORK</h3>
-      <img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40>
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a>
       <br>
       <h3>DESIGNING & CRAFTING</h3>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height=40>
+      <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height=40></a>
       <br>
       <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
-      <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40>
-      <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40>
-      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40>
+      <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
+      <a href="https://expressjs.com/en/guide/routing.html"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40></a>
+      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
       <br>
       <h3>JAVASCRIPT RUNTIME ENVIRONMENT</h3>
-      <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40>
+      <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40></a>
       <br>
       <h3>PACKAGE MANAGER</h3>
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-package-installer" height=40>
+      <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-package-installer" height=40></a>
       <br>
       <h3>API</h3>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40>
+      <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40></a>
       <br>
       <h3>DBMS TECHNOLOGIES</h3>
-      <img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40>
+      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40></a>
       <br>
       <h3>VERSION CONTROL</h3>
-      <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40>
-      <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40>
+      <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40></a>
+      <a href="https://github.com/"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40></a>
       <br>
     </p>
   </section>
