@@ -82,8 +82,9 @@
     <h2 align="center">GITHUB STATS</h2>
     <p align="center">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=SiddheshP1996&show_icons=true&count_private=true&theme=default"
-          alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SiddheshP1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats">
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=SiddheshP1996&show_icons=true&count_private=true&theme=default"
+          alt="GitHub Stats"> -->
       </a>
     </p>
   </section>
