@@ -95,7 +95,7 @@
     <p align="center">
       <a href="#">
 <!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=default" -->
-          <img src= "[![Siddhesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshP1996&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/SiddheshP1996/github-readme-activity-graph)" alt="Activity Graph">          
+          <img src= "[![Siddhesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshP1996&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]" alt="Activity Graph">          
       </a>
     </p>
   </section>
