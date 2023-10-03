@@ -96,9 +96,7 @@
     <p align="center">
       <a href="#">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddheshP1996&theme=high-contrast" alt="Activity Graph">
-<!--         <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddheshP1996&theme=github-compact	&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph"> -->
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=default" -->
-<!--           <img src= "[![Siddhesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshP1996&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]" alt="Activity Graph">           -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshP1996&theme=vue-dark&hide_border=true" alt="ActivityGraph">
       </a>
     </p>
   </section>
@@ -108,7 +106,8 @@
   <section class="container languages used">
     <h2 align="center">LANGUAGES USED</h2>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&layout=compact" alt="languages used" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Languages used" align="center">
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshP1996&layout=compact" alt="languages used" align="center"> -->
     </p>
   </section>
   
