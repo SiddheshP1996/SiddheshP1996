@@ -149,7 +149,7 @@
     <p align="center">
 <!--       <img src="https://komarev.com/ghpvc/?username=SiddheshP1996" alt="Profile Views"> -->
 <!--       <img src="(https://github-views.deno.dev/api/badge/SiddheshP1996?label=Profile+Views)" alt="Profile Views"> -->
-      <img src="![Github Views](https://github-views.deno.dev/api/badge/SiddheshP1996?label=Profile+Views)" alt="Profile Views">
+      <img src="https://github-views.deno.dev/api/json/SiddheshP1996" alt="Profile Views">
       <a href="https://github.com/SiddheshP1996=followers">
         <img src="https://img.shields.io/github/followers/SiddheshP1996=Followers&style=social" alt="GitHub Followers">
       </a>
