@@ -147,7 +147,8 @@
   <section class="container views-followers">
     <h2 align="center">VIEWS AND FOLLOWERS</h2>
     <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=SiddheshP1996" alt="Profile Views">
+<!--       <img src="https://komarev.com/ghpvc/?username=SiddheshP1996" alt="Profile Views"> -->
+      <img src="(https://github-views.deno.dev/api/badge/SiddheshP1996?label=Profile+Views)" alt="Profile Views">
       <a href="https://github.com/SiddheshP1996=followers">
         <img src="https://img.shields.io/github/followers/SiddheshP1996=Followers&style=social" alt="GitHub Followers">
       </a>
