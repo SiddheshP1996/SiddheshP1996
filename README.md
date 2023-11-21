@@ -49,6 +49,13 @@
       <h3>CSS EXTERNAL FRAMEWORK</h3>
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a>
       <br>
+      <h3>DBMS TECHNOLOGIES</h3>
+      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40></a>
+      <br>
+      <h3>VERSION CONTROL</h3>
+      <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40></a>
+      <a href="https://github.com/"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40></a>
+      <br>
       <h3>DESIGNING & CRAFTING</h3>
       <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height=40></a>
       <br>
@@ -65,13 +72,6 @@
       <br>
       <h3>API</h3>
       <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40></a>
-      <br>
-      <h3>DBMS TECHNOLOGIES</h3>
-      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40></a>
-      <br>
-      <h3>VERSION CONTROL</h3>
-      <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40></a>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40></a>
       <br>
     </p>
   </section>
