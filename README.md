@@ -59,16 +59,16 @@
       <h3>DESIGNING & CRAFTING</h3>
       <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height=40></a>
       <br>
-      <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
-      <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
-      <a href="https://expressjs.com/en/guide/routing.html"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40></a>
-      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
-      <br>
       <h3>JAVASCRIPT RUNTIME ENVIRONMENT</h3>
       <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40></a>
       <br>
       <h3>PACKAGE MANAGER</h3>
       <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-package-installer" height=40></a>
+      <br>
+      <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
+      <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
+      <a href="https://expressjs.com/en/guide/routing.html"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40></a>
+      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
       <br>
       <h3>API</h3>
       <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40></a>
