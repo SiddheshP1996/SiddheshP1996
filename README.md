@@ -37,10 +37,8 @@
   <section class="container skills">
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
-      <h3>DSA LANGUAGE</h3>
-      <a href="https://www.python.org/doc/"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
-      <br>
       <h3>LANGUAGES</h3>
+      <a href="https://www.python.org/doc/"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40></a>
