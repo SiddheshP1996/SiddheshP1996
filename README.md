@@ -47,6 +47,9 @@
       <h3>CSS EXTERNAL FRAMEWORK</h3>
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a>
       <br>
+      <h3>PYTHON FRAMEWORK</h3>
+      <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height=40></a>
+      <br>
       <h3>DBMS TECHNOLOGIES</h3>
       <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40></a>
       <br>
