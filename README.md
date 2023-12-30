@@ -35,6 +35,10 @@
   <hr>
   
   <section class="container skills">
+    <h2 align="center"> OPERATING SYSTEM</h2>
+    <p align="center">
+      <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="windows11" height=40></a>
+    </p>
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
       <h3>PRACTISE PLATFORMS</h3>
