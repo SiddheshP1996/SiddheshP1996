@@ -33,14 +33,12 @@
   </section>
   
   <hr>
-  
-  <section class="container skills">
-    <h2 align="center"> OPERATING SYSTEM</h2>
-    <p align="center">
-      <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="windows11" height=40></a>
-    </p>
+
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
+      <h3> OPERATING SYSTEM</h3>
+      <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="windows11" height=40></a>
+      <br>
       <h3>PRACTISE PLATFORMS</h3>
       <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="geeksforgeeks" height=40></a>
       <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" height=40></a>
