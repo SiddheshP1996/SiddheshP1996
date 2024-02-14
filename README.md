@@ -10,9 +10,9 @@
   <p align="center">
     <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=350>
   </p>
-  <h1 align="center">Hi there! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+  <h1 align="center">Namaste Everyone !! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
-  <h3 align="center">I'm a Web Developer and Explorer</h3>
+  <h3 align="center">I'm a passionate Web Developer and getting use to be Django Developer</h3>
   <h3 align="center">Aspiring Data Software Engineer</h3>
 
   <p align="center">
