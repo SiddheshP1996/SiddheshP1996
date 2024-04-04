@@ -36,51 +36,70 @@
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
       <h3>OPERATING SYSTEM</h3>
-      <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="windows11" height=40></a>
+      <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows11"></a>
+<!--       <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="windows11" height=40></a> -->
       <br>
       <h3>CODE EDITOR</h3>
-      <a href="https://code.visualstudio.com/docs"><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode" height=40></a>
+      <a href="https://code.visualstudio.com/docs"><img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode"></a>
+<!--       <a href="https://code.visualstudio.com/docs"><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode" height=40></a> -->
       <br>
       <h3>PRACTISE PLATFORMS</h3>
       <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="geeksforgeeks" height=40></a>
       <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" height=40></a>
       <br>
       <h3>LANGUAGES</h3>
-      <a href="https://www.python.org/doc/"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
+      <a href="https://www.python.org/doc/"><img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python3"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript"></a>
+      <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c++"></a>
+<!--       <a href="https://www.python.org/doc/"><img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40></a>
-      <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40></a>
+      <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40></a> -->
       <br>
       <h3>CSS EXTERNAL FRAMEWORK</h3>
-      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a>
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5"></a>
+<!--       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a> -->
       <br>
       <h3>PYTHON FRAMEWORK</h3>
-      <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height=40></a>
+      <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django"></a>
+<!--       <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height=40></a> -->
       <br>
       <h3>DBMS TECHNOLOGIES</h3>
-      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40></a>
+      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height=40></a>
+<!--       <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=40></a> -->
       <br>
       <h3>VERSION CONTROL</h3>
-      <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40></a>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40></a>
+      <a href="https://git-scm.com/doc"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git"></a>
+      <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github"></a>
+<!--       <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=40></a>
+      <a href="https://github.com/"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height=40></a> -->
       <br>
       <h3>DESIGNING & CRAFTING</h3>
-      <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height=40></a>
+      <a href="https://www.canva.com/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva"></a>
+<!--       <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height=40></a> -->
       <br>
       <h3>JAVASCRIPT RUNTIME ENVIRONMENT</h3>
-      <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40></a>
+      <a href="https://nodejs.org/en/docs"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs"></a>
+      <a href="https://expressjs.com/en/guide/routing.html"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="expressjs"></a>
+<!--       <a href="https://nodejs.org/en/docs"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height=40></a>
+      <a href="https://expressjs.com/en/guide/routing.html"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40></a> -->
       <br>
       <h3>PACKAGE MANAGER</h3>
-      <a href="https://docs.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-package-installer" height=40></a>
-      <br>
-      <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
-      <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
-      <a href="https://expressjs.com/en/guide/routing.html"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="expressjs" height=40></a>
-      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
+      <a href="https://docs.npmjs.com/"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm-package-installer"></a>
+<!--       <a href="https://docs.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm-package-installer" height=40></a> -->
       <br>
       <h3>API</h3>
-      <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40></a>
+      <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman"></a>
+<!--       <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=40></a> -->
+      <br>
+      <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
+      <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></a>
+      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon"></a>
+<!--       <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
+      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a> -->
       <br>
     </p>
   </section>
