@@ -59,13 +59,11 @@
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=40></a>
       <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++" height=40></a> -->
       <br>
-      <h3>CSS EXTERNAL FRAMEWORK</h3>
+      <h3>FRAMEWORKS</h3>
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5" height=40></a>
-<!--       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a> -->
-      <br>
-      <h3>PYTHON FRAMEWORK</h3>
       <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" height=40></a>
 <!--       <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height=40></a> -->
+<!--       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://img.shields.io/badge/bootstrap5%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5" height=40></a> -->
       <br>
       <h3>DBMS TECHNOLOGIES</h3>
       <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height=40></a>
