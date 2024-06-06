@@ -39,7 +39,7 @@
       <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows11" height=40></a>
       <a href="https://code.visualstudio.com/docs"><img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" height=40></a>
       <a href="https://www.jetbrains.com/idea/"><img src = "https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="intellij" height=40></a>
-      <a href="https://www.jetbrains.com/pycharm/"><img src = "[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)" alt="pycharm" height=40></a>
+      <a href="https://www.jetbrains.com/pycharm/"><img src = "(https://skillicons.dev/icons?i=pycharm)" alt="pycharm" height=40></a>
       <a href="https://docs.jupyter.org/en/latest/"><img src = "https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyternotebook" height=40></a>
       <br>
       <h3>DEVELOPER TECHNOLOGIES</h3>
