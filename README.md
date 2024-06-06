@@ -51,6 +51,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" height=40></a>
+      <a href="https://api.jquery.com/"><img src = "https://skillicons.dev/icons?i=jquery" alt="jquery" height=40></a>
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5" height=40></a>
       <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" height=40></a>
       <a href="https://nodejs.org/en/docs"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" height=40></a>
