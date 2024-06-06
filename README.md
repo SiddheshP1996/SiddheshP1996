@@ -38,16 +38,15 @@
       <h3>DEVELOPER SYSTEMS</h3>
       <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows11" height=40></a>
       <a href="https://code.visualstudio.com/docs"><img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" height=40></a>
-      <br>
-      <h3>PRACTISE PLATFORMS</h3>
-      <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="geeksforgeeks" height=40></a>
-      <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" height=40></a>
+      <a href="https://www.jetbrains.com/idea/"><img src = "https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="intellij" height=40></a>
+      <a href="https://docs.jupyter.org/en/latest/"><img src = "https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyternotebook" height=40></a>
       <br>
       <h3>DEVELOPER TECHNOLOGIES</h3>
       <a href="https://www.python.org/doc/"><img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python3" height=40></a>
       <a href="https://dev.java/learn/"><img src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" height=40></a>
       <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c++" height=40></a>
       <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height=40></a>
+      <a href="https://mariadb.org/documentation/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="mariadb" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" height=40></a>
@@ -62,12 +61,17 @@
       <a href="https://git-scm.com/doc"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" height=40></a>
       <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" height=40></a>
       <br>
-      <h3>DESIGNING & CRAFTING</h3>
+      <h3>CLOUD & DESIGNING</h3>
+      <a href="https://docs.aws.amazon.com/"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" height=40></a>
+      <a href="https://cloud.google.com/docs/?_gl=1*fv51b1*_up*MQ..&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvRFq6Uz51Yg62a4ODzC85S8v6VmK79S2Cj_qaT8EVUoAOPlhdmo9NhoCUZ8QAvD_BwE&gclsrc=aw.ds"><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="gcp" height=40></a>
       <a href="https://www.canva.com/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva" height=40></a>
       <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
       <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
       <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
       <br>
+      <h3>PRACTISE PLATFORMS</h3>
+      <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="geeksforgeeks" height=40></a>
+      <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" height=40></a>
     </p>
   </section>
   
