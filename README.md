@@ -58,6 +58,7 @@
       <a href="https://docs.npmjs.com/"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm-package-installer" height=40></a>
       <a href="https://expressjs.com/en/guide/routing.html"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="expressjs" height=40></a>
       <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" height=40></a>
+      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
       <br>
       <h3>VERSION CONTROL</h3>
       <a href="https://git-scm.com/doc"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" height=40></a>
@@ -67,10 +68,6 @@
       <a href="https://docs.aws.amazon.com/"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" height=40></a>
       <a href="https://cloud.google.com/docs/?_gl=1*fv51b1*_up*MQ..&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvRFq6Uz51Yg62a4ODzC85S8v6VmK79S2Cj_qaT8EVUoAOPlhdmo9NhoCUZ8QAvD_BwE&gclsrc=aw.ds"><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="gcp" height=40></a>
       <a href="https://www.canva.com/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva" height=40></a>
-      <h3>JAVASCRIPT LIBRARY & FRAMEWORKS</h3>
-      <a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height=40></a>
-      <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
-      <br>
       <h3>PRACTISE PLATFORMS</h3>
       <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="geeksforgeeks" height=40></a>
       <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" height=40></a>
