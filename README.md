@@ -24,10 +24,11 @@
   <section class="container about-me">
     <h2 align="center">ABOUT ME</h2>
     <p align="center"> <strong>🌱 Welcome to My GitHub Profile! 🌱</strong></p><br>
-    <p>💻 A Web Developer and Explorer, possessing foundation in crafting elegant and robust solutions. Whether it's building intuitive user interfaces or designing scalable front-end, back-end, full-stack systems, I am passionate about creating seamless digital experiences that leave a long lasting impact.</p> <br>
-    <p>👨‍💻 I believe in the power of code to shape the world we live in and continuously seek different aspects to contribute meaningfully to its changing evolution.
+    <p>💻 Aspiring Data Software Engineer. Former student from D.Y. Patil College of Engineering, Akurdi, Pune specializing in Electronics and Telecommunication. Possessing a strong foundation in core computer concepts, database communication and frontend-backend frameworks. Eager to leverage my hands-on knowledge and practical skills in a challenging and rewarding professional environment. Proficient in programming languages like Python, Core Java and Core C++, with a keen interest in Software Development, Web Development, Data Science and Machine Learning. Excellent communication and teamwork abilities, with a strong desire to learn and contribute to the field of computer science.
     </p> <br>
-    <p>🚀 Besides my love for coding, I'm a lifelong learner who enjoys staying up-to-date with the latest advancements in technology. With a keen interest in history, travel, current affairs and fitness, I strive to broaden my horizons beyond the realms of data and its analysis.
+    <p>👨‍💻 I believe in the power of code to shape the world we live in and continuously seek different aspects to contribute meaningfully to its changing evolution. Had hands-on knowledge on Python, Java, HTML, CSS, JavaScript, jQuery, Django Python Framework, Node.js, Bootstrap5.
+    </p> <br>
+    <p>🚀 Besides my love for coding, I'm a lifelong learner who enjoys staying up-to-date with the latest advancements in technology. With a keen interest in history, travel, and fitness. I strive to broaden my horizons beyond the realms of software building, data processing and data analysis.
     </p>
   </section>
   
