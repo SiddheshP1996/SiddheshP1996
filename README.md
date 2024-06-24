@@ -36,7 +36,7 @@
   <section class="container skills">
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
-      <h3>DEVELOPER SYSTEMS</h3>
+      <h3>DEVELOPER SYSTEM AND SOFTWARES</h3>
       <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows11" height=40></a>
       <a href="https://code.visualstudio.com/docs"><img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" height=40></a>
       <a href="https://www.jetbrains.com/idea/"><img src = "https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="intellij" height=40></a>
