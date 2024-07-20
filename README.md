@@ -12,7 +12,7 @@
   </p>
   <h1 align="center">Namaste Everyone !! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
-  <h3 align="center">I'm Web Developer, Python Developer, Django Developer and getting use to be Java Developer</h3>
+  <h3 align="center">I'm Web Developer, Python Developer, Django Developer, Java Developer</h3>
   <h3 align="center">Aspiring Data Software Engineer</h3>
 
   <p align="center">
