@@ -52,8 +52,12 @@
       <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" height=40></a>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" height=40></a>
+      <a href="https://www.typescriptlang.org/docs/"><img src = "https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" height=40></a>
       <a href="https://api.jquery.com/"><img src = "https://skillicons.dev/icons?i=jquery" alt="jquery" height=40></a>
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5" height=40></a>
+      <a href="https://react.dev/learn"><img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react.js" height=40></a>
+      <a href="https://babeljs.io/docs/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="babel" height=40></a>
+      <a href="https://vitejs.dev/guide/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="vite" height=40></a>
       <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" height=40></a>
       <a href="https://nodejs.org/en/docs"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" height=40></a>
       <a href="https://docs.npmjs.com/"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm-package-installer" height=40></a>
