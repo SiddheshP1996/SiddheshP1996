@@ -57,6 +57,7 @@
       <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5" height=40></a>
       <a href="https://react.dev/learn"><img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react.js" height=40></a>
       <a href="https://babeljs.io/docs/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="babel" height=40></a>
+      <a href="https://parceljs.org/docs/"><img src="https://parceljs.org/favicon.fe6f9d11.ico" alt="parcel" height=40></a>
       <a href="https://vitejs.dev/guide/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="vite" height=40></a>
       <a href="https://docs.djangoproject.com/en/5.0/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" height=40></a>
       <a href="https://nodejs.org/en/docs"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" height=40></a>
@@ -70,6 +71,7 @@
       <a href="https://pandas.pydata.org/docs/index.html"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="pandas" height=40></a>
       <a href="https://matplotlib.org/stable/users/index"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" height=40></a>
       <a href="https://scikit-learn.org/stable/user_guide.html"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" alt="scikit-learn" height=40></a>
+      <a href="https://support.microsoft.com/en-us/excel"><img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" alt="ms-excel" height=40></a>
       <br>
       <h3>VERSION CONTROL</h3>
       <a href="https://git-scm.com/doc"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" height=40></a>
@@ -80,8 +82,8 @@
       <a href="https://cloud.google.com/docs/?_gl=1*fv51b1*_up*MQ..&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvRFq6Uz51Yg62a4ODzC85S8v6VmK79S2Cj_qaT8EVUoAOPlhdmo9NhoCUZ8QAvD_BwE&gclsrc=aw.ds"><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="gcp" height=40></a>
       <a href="https://www.canva.com/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva" height=40></a>
       <h3>PRACTISE PLATFORMS</h3>
-      <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="geeksforgeeks" height=40></a>
-      <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" height=40></a>
+      <a href="https://auth.geeksforgeeks.org/user/siddhesh_panajkar"><img src = "https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="geeksforgeeks" height=40></a>
+      <a href="https://leetcode.com/siddheshpanajkar/"><img src = "https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="leetcode" height=40></a>
     </p>
   </section>
   
