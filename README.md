@@ -65,6 +65,12 @@
       <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" height=40></a>
       <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
       <br>
+      <h3>DATA ANALYSIS TOOLS</h3>
+      <a href="https://numpy.org/doc/stable/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="numpy" height=40></a>
+      <a href="https://pandas.pydata.org/docs/index.html"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="pandas" height=40></a>
+      <a href="https://matplotlib.org/stable/users/index"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" height=40></a>
+      <a href="https://scikit-learn.org/stable/user_guide.html"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" alt="scikit-learn" height=40></a>
+      <br>
       <h3>VERSION CONTROL</h3>
       <a href="https://git-scm.com/doc"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" height=40></a>
       <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" height=40></a>
