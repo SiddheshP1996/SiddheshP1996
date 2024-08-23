@@ -67,6 +67,7 @@
       <a href="https://www.npmjs.com/package/nodemon"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height=40></a>
       <br>
       <h3>DATA ANALYSIS TOOLS</h3>
+      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height=40></a>
       <a href="https://numpy.org/doc/stable/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="numpy" height=40></a>
       <a href="https://pandas.pydata.org/docs/index.html"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="pandas" height=40></a>
       <a href="https://matplotlib.org/stable/users/index"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" height=40></a>
