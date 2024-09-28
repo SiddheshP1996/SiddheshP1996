@@ -37,25 +37,25 @@
     <h2 align="center">TECH STACKS</h2>
     <p align="center">
       <h3>DEVELOPER SYSTEM AND SOFTWARES</h3>
-      <a href="https://www.microsoft.com/software-download/windows11"><img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows11" height=40></a>
-      <a href="https://code.visualstudio.com/docs"><img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" height=40></a>
-      <a href="https://www.jetbrains.com/idea/"><img src = "https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="intellij" height=40></a>
-      <a href="https://www.jetbrains.com/pycharm/"><img src = "https://skillicons.dev/icons?i=pycharm" alt="pycharm" height=40></a>
-      <a href="https://docs.jupyter.org/en/latest/"><img src = "https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyternotebook" height=40></a>
+      <a href="https://www.microsoft.com/software-download/windows11"><img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows11" height=40></a>
+      <a href="https://code.visualstudio.com/docs"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" height=40></a>
+      <a href="https://www.jetbrains.com/idea/"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="intellij" height=40></a>
+      <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" height=40></a>
+      <a href="https://docs.jupyter.org/en/latest/"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyternotebook" height=40></a>
       <br>
       <h3>DEVELOPER TECHNOLOGIES</h3>
-      <a href="https://www.python.org/doc/"><img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python3" height=40></a>
-      <a href="https://dev.java/learn/"><img src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" height=40></a>
-      <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src = "https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c++" height=40></a>
-      <a href="https://dev.mysql.com/doc/workbench/en/"><img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height=40></a>
-      <a href="https://mariadb.org/documentation/"><img src = "https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="mariadb" height=40></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" height=40></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" height=40></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src = "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" height=40></a>
-      <a href="https://www.typescriptlang.org/docs/"><img src = "https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" height=40></a>
-      <a href="https://api.jquery.com/"><img src = "https://skillicons.dev/icons?i=jquery" alt="jquery" height=40></a>
-      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5" height=40></a>
-      <a href="https://react.dev/learn"><img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react.js" height=40></a>
+      <a href="https://www.python.org/doc/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python3" height=40></a>
+      <a href="https://dev.java/learn/"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" height=40></a>
+      <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c++" height=40></a>
+      <a href="https://dev.mysql.com/doc/workbench/en/"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height=40></a>
+      <a href="https://mariadb.org/documentation/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="mariadb" height=40></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" height=40></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" height=40></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" height=40></a>
+      <a href="https://www.typescriptlang.org/docs/"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" height=40></a>
+      <a href="https://api.jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" height=40></a>
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap5" height=40></a>
+      <a href="https://react.dev/learn"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react.js" height=40></a>
       <a href="https://babeljs.io/docs/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="babel" height=40></a>
       <a href="https://parceljs.org/docs/"><img src="https://parceljs.org/favicon.fe6f9d11.ico" alt="parcel" height=40></a>
       <a href="https://vitejs.dev/guide/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="vite" height=40></a>
