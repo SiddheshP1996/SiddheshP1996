@@ -13,7 +13,7 @@
   <h1 align="center">Namaste Everyone !! <br> I'm Siddhesh Nilesh Panajkar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"></h1>
   <h3 align="center">I'm Web Developer, WordPress Developer, Python Developer, Django Developer, Java Developer</h3>
-  <h3 align="center">Aspiring Data Software Engineer</h3>
+  <h3 align="center">Web Developer Intern at The Impact Engine</h3>
 
   <p align="center">
     <img src="https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?size=626&ext=jpg&ga=GA1.2.169013041.1692602861&semt=ais" height=350>
@@ -24,7 +24,8 @@
   <section class="container about-me">
     <h2 align="center">ABOUT ME</h2>
     <p align="center"> <strong>🌱 Welcome to My GitHub Profile! 🌱</strong></p><br>
-    <p>This is my abstract as a dynamic web developer with expertise in WordPress, Python, Django, Java, and SQL. Currently a Web Developer Intern at The Impact Engine, specialized in building responsive and high-performing web applications. Proficient in modern technologies like React.js, Node.js, Express.js, and Bootstrap, my GitHub portfolio showcases a strong commitment to innovation and hands-on problem-solving. With a solid foundation in computing and a passion for continuous learning & is equipped to drive impactful software solutions.</p> <br>
+    <p>This is my abstract as a dynamic 💻Web Developer with expertise in 📑WordPress, 🐍Python, Django, Java, and 🗂️SQL. Currently a 💻Web Developer Intern at The Impact Engine, specialized in building responsive and high-performing web applications. </p> <br>
+    <p>Proficient in modern technologies like React.js, Node.js, Express.js, and Bootstrap, my GitHub portfolio showcases a strong commitment to innovation and hands-on problem-solving. With a solid foundation in computing and a passion for continuous learning & is equipped to drive impactful software solutions.</p> <br>
     <p>🚀 Besides my love for coding, I'm a lifelong learner who enjoys staying up-to-date with the latest advancements in technology. With a keen interest in history, travel, and fitness. I strive to broaden my horizons beyond the realms of software building, data processing and data analysis.
     </p>
   </section>
